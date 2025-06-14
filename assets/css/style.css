@@ -189,6 +189,7 @@ nav.navbar.bootsnav.no-full .navbar-collapse {
     overflow-y: auto !important;
 }
     .top-area {
+	margin: 0px;
         padding: 0px 25px 0px 25px !important;
     }
 
